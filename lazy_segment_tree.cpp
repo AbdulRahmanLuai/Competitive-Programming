@@ -12,9 +12,10 @@ ll n, q;
 ll a[N];
 ll seg[4 * N];
 ll lazy[4 * N];
-ll defaultValue = 0;
+ll defaultValue = 0;  // make sure this is correct for different problems. 
 
-ll combine(ll a, ll b) {
+
+ll combine(ll a, ll b) {  // make sure this is correct for different problems. 
     return a + b;
 }
 
