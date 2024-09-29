@@ -1,3 +1,4 @@
 generating/ counting divisors
 sieve
 combinatorics (ncr, npr, factorial, factorial inv)...
+dijkestra
